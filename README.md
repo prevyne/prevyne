@@ -29,7 +29,7 @@ I am a passionate full-stack software engineer specializing in back-end web deve
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://twitter.com/prevyne_dev/)
-- - Connect with me on [LinkedIn](https://www.linkedin.com/in/prevyne-okech/)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/prevyne-okech/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
