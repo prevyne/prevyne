@@ -10,6 +10,7 @@ I am a passionate full-stack software engineer specializing in back-end web deve
 
 ## Tech Stack
 M.E.R.N. - MongoDB, ExpressJS, ReactJS, NodeJS.
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
