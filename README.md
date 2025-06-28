@@ -1,6 +1,6 @@
 # Hi, I'm Prevyne Okech Odhiambo 👋
 
-I am a passionate full-stack software engineer specializing in back-end web development from Nakuru, Kenya.
+I am a passionate full-stack software engineer bases in Nakuru Kenya, specializing in back-end web development.
 
 ## 🚀 About Me
 
