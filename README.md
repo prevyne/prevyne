@@ -4,7 +4,7 @@ I am a passionate full-stack software engineer specializing in back-end web deve
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
+- 🔭 I'm a recent graduate form Kabarak University with a degree in BSc. Information technology, second class upper division honors.
 - Check out my portfolio website [prevyne-portfolio.vercel.app](https://prevyne-portfolio.vercel.app/).
 - I am currently an ALX Pro-Backend Development student at ALX Academy Africa.
 
