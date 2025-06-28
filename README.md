@@ -9,7 +9,7 @@ I am a passionate full-stack software engineer specializing in back-end web deve
 - I am currently an ALX Pro-Backend Development student at ALX Academy Africa.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=mongo,express,react,node)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongo,express,react,nodejs)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
