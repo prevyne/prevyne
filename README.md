@@ -8,8 +8,9 @@ I am a passionate full-stack software engineer bases in Nakuru Kenya, specializi
 - Check out my portfolio website [prevyne-portfolio.vercel.app](https://prevyne-portfolio.vercel.app/).
 - I am currently an ALX Pro-Backend Development student at ALX Academy Africa.
 
-## Tech Stack
+## Tech Stack & Tools
 [![My Skills](https://skillicons.dev/icons?i=mongo,express,react,nodejs,django,flask)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=linux,ubuntu,kali,anaconda,git,github,windows,gmail,docker,sqlite,vim,neovim,vscode,vercel,bootstrap,php,html,ai)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
