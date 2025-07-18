@@ -4,13 +4,15 @@ I am a passionate full-stack software engineer bases in Nakuru Kenya, specializi
 
 ## 🚀 About Me
 
-- 🔭 I'm a recent graduate form Kabarak University with a degree in BSc. Information technology, second class upper division honors.
+- 🔭 I'm a recent graduate form Kabarak University with a Bachelor of Science degree in Information technology, with second-class upper division honors.
 - Check out my portfolio website [prevyne-portfolio.vercel.app](https://prevyne-portfolio.vercel.app/).
 - I am currently an ALX Pro-Backend Development student at ALX Academy Africa.
 
-## Tech Stack & Tools
+## Tech Skills (Tech Stack & Tools)
+### My Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=mongo,express,react,nodejs,django,flask)](https://skillicons.dev)
-[![My Tools](https://skillicons.dev/icons?i=linux,ubuntu,kali,anaconda,git,github,windows,gmail,docker,sqlite,vim,neovim,vscode,vercel,bootstrap,php,html,ai)](https://skillicons.dev)
+###My Tools
+[![My Tools](https://skillicons.dev/icons?i=linux,ubuntu,kali,anaconda,git,github,windows,gmail,excel,docker,sqlite,vim,neovim,vscode,vercel,bootstrap,php,html,ai,c,cpp)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
