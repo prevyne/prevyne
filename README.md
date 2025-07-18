@@ -6,7 +6,7 @@ I am a passionate full-stack software engineer bases in Nakuru Kenya, specializi
 
 - 🔭 I'm a recent graduate form Kabarak University with a Bachelor of Science degree in Information technology, with second-class upper division honors.
 - Check out my portfolio website [prevyne-portfolio.vercel.app](https://prevyne-portfolio.vercel.app/).
-- I am currently an ALX Pro-Backend Development student at ALX Academy Africa.
+- I am currently a Pro-Backend Development student at ALX Academy Africa.
 
 ## Tech Skills (Tech Stack & Tools)
 ### My Tech Stack
