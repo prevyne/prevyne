@@ -11,7 +11,7 @@ I am a passionate full-stack software engineer bases in Nakuru Kenya, specializi
 ## Tech Skills (Tech Stack & Tools)
 ### My Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=mongo,express,react,nodejs,django,flask)](https://skillicons.dev)
-###My Tools
+### My Tools
 [![My Tools](https://skillicons.dev/icons?i=linux,ubuntu,kali,anaconda,git,github,windows,gmail,excel,docker,sqlite,vim,neovim,vscode,vercel,bootstrap,php,html,ai,c,cpp)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
