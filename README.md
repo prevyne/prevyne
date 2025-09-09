@@ -12,7 +12,7 @@ I am a passionate full-stack software engineer based in Nakuru Kenya, specializi
 ### ⚙️ My Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=mongo,express,react,nodejs,django,flask)](https://skillicons.dev)
 ### 🧰 My Tools
-[![My Tools](https://skillicons.dev/icons?i=linux,ubuntu,kali,anaconda,git,github,windows,gmail,docker,sqlite,mysql,vim,neovim,vscode,vercel,bootstrap,php,html,ai,c)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=linux,ubuntu,kali,bash,anaconda,git,github,stackoverflow,tailwind,gmail,docker,sqlite,mysql,vim,neovim,vscode,vercel,bootstrap,tensorflow,vite,qt,c,py)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
