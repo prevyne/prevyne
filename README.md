@@ -1,10 +1,10 @@
-# Hi, I'm Prevyne Okech Odhiambo 👋
+# Hi, I'm Prevyne Okech Odhiambo
 
 I am a passionate full-stack software engineer based in Nakuru Kenya, specializing in back-end web development.
 
 ## About Me
 
-- 🔭 I'm a recent graduate from Kabarak University with a Bachelor of Science degree in Information technology, with second-class upper division honors.
+-  I'm a recent graduate from Kabarak University with a Bachelor of Science degree in Information technology, with second-class upper division honors.
 - Check out my portfolio website [prevyne-portfolio.vercel.app](https://prevyne-portfolio.vercel.app/).
 - I am currently a Pro-Backend Development apprentice at ALX Africa.
 
