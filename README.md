@@ -10,9 +10,9 @@ innovative, high-performance backend services tailored to user needs
 
 ## Tech Skills (Tech Stack & Tools)
 ### My Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=mongo,express,react,nodejs,django,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,flask,QT,mongo,express,react,nodejs)](https://skillicons.dev)
 ### My Tools
-[![My Tools](https://skillicons.dev/icons?i=linux,ubuntu,kali,bash,anaconda,git,github,stackoverflow,tailwind,gmail,docker,sqlite,mysql,vim,neovim,vscode,vercel,bootstrap,tensorflow,vite,qt,c,py)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=linux,ubuntu,bash,anaconda,git,github,tailwind,docker,sqlite,mysql,vim,neovim,vscode,vercel,bootstrap,tensorflow,vite,qt,py)](https://skillicons.dev)
 
 ## Currently Exploring
 
