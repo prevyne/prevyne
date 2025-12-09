@@ -1,12 +1,12 @@
 # Hi, I'm Prevyne Okech Odhiambo
 
-I am a passionate full-stack software engineer based in Nakuru Kenya, specializing in back-end web development.
+I am a passionate software engineer based in Nakuru Kenya, specializing in back-end web development.
 
 ## About Me
 
--  I'm a recent graduate from Kabarak University with a Bachelor of Science degree in Information technology, with second-class upper division honors.
-- Check out my portfolio website [prevyne-portfolio.vercel.app](https://prevyne-portfolio.vercel.app/).
-- I am currently a Pro-Backend Development apprentice at ALX Africa.
+Python backend developer with strong skills in Django REST Framework and PyQt6 for desktop applications. Successfully delivered a responsive job board API and an
+AI-Powered skill-matching platform leveraging Scikit-learn, demonstrating ability to integrate machine learning with backend systems. Dedicated to developing
+innovative, high-performance backend services tailored to user needs
 
 ## Tech Skills (Tech Stack & Tools)
 ### My Tech Stack
@@ -25,8 +25,8 @@ I am a passionate full-stack software engineer based in Nakuru Kenya, specializi
 
  ##  Achievements
 -  Completed Power Learn Project (PLP) Software engineering programme.
--  Completed ALX virtual Assistant programme.
--  Completed ALX professional foundations for the digital age.
+-  completed ALX Pro-dev Backend Engineering programme.
+-  Designed and shipped responsive RESTful APIs.
 
 
 ## Get in Touch
