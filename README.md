@@ -1,53 +1,37 @@
-# Hi, I'm Prevyne Okech Odhiambo
+# Hi, I'm Prevyne Okech.
 
-I am a passionate software engineer based in Nakuru Kenya, specializing in back-end web development.
+**Python Backend Engineer | Internal Tools & Automation | System Architecture**
 
-## About Me
+Based in Kenya. Specializing in high-performance backends using Django and desktop automation with PyQt6. I build systems that bridge the gap between complex data models and user-friendly interfaces.
 
-Python backend developer with strong skills in Django REST Framework and PyQt6 for desktop applications. Successfully delivered a responsive job board API and an
-AI-Powered skill-matching platform leveraging Scikit-learn, demonstrating ability to integrate machine learning with backend systems. Dedicated to developing
-innovative, high-performance backend services tailored to user needs
+## Tech Stack & Arsenal
 
-## Tech Skills (Tech Stack & Tools)
-### My Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=django,flask,mongo,express,react,nodejs)](https://skillicons.dev)
-### My Tools
-[![My Tools](https://skillicons.dev/icons?i=linux,ubuntu,bash,anaconda,git,github,tailwind,docker,sqlite,mysql,vim,neovim,vscode,vercel,bootstrap,tensorflow,vite,qt,py)](https://skillicons.dev)
+**Core Backend & Systems**
+[![My Skills](https://skillicons.dev/icons?i=python,django,flask,postgres,sqlite,linux,bash,docker,git,github)](https://skillicons.dev)
 
-## Currently Exploring
+**Frontend & GUI**
+[![My Tools](https://skillicons.dev/icons?i=qt,react,tailwind,bootstrap,vite,vscode,vim)](https://skillicons.dev)
 
--  Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework (Flask and Django).
-  - Diving into PostgreSQL for efficient and scalable database management.
+---
 
- ##  Achievements
--  Completed Power Learn Project (PLP) Software engineering programme.
--  completed ALX Pro-dev Backend Engineering programme.
--  Designed and shipped responsive RESTful APIs.
+## Engineering Focus
 
+I am currently focused on building scalable internal tools and optimizing backend performance.
 
-## Get in Touch
+- **Backend Architecture:** designing RESTful APIs with **Django REST Framework** and optimizing query performance in **PostgreSQL**.
+- **Desktop Engineering:** Building cross-platform desktop applications with **PyQt6** for offline-first environments.
+- **Frontend Integration:** Implementing dynamic interfaces with **React** and **Tailwind CSS** to consume Python backends.
+- **Machine Learning:** integrating **Scikit-learn** models into production web services for real-time skill matching.
 
-- Connect with me on [Twitter](https://twitter.com/prevyne_dev/)
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/prevyne-okech/)
+## Proven Milestones
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+- **ALX Pro-dev Backend Engineering:** Certified Backend Engineer.
+- **Power Learn Project (PLP):** Completed intensive Software Engineering cycle.
+- **Shipped Projects:**
+    - **AI-Powered Skill Matcher:** A platform leveraging Scikit-learn for intelligent user-role matching.
+    - **Job Board API:** A fully responsive, RESTful service handling high-throughput requests.
 
+## Connect
 
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **LinkedIn:** [Prevyne Okech](https://www.linkedin.com/in/prevyne-okech/)
+- **Twitter/X:** [@prevyne_dev](https://twitter.com/prevyne_dev/)
