@@ -6,8 +6,8 @@ Based in Kenya. Specializing in high-performance backends using Django and deskt
 
 ## Tech Stack & Arsenal
 
-**Core Backend & Systems**
-[![My Skills](https://skillicons.dev/icons?i=python,django,flask,postgres,sqlite,linux,bash,docker,git,github)](https://skillicons.dev)
+**Backend Frameworks & Tools**
+[![My Skills](https://skillicons.dev/icons?i=python,django,flask,postgres,Tools,sqlite,linux,bash,docker,git,github)](https://skillicons.dev)
 
 **Frontend Frameworks & IDEs**
 [![My Tools](https://skillicons.dev/icons?i=qt,react,tailwind,bootstrap,vite,sublimetext,vscode,neovim)](https://skillicons.dev)
