@@ -1,68 +1,81 @@
-# Prevyne Okech
+# prevyne
 
-**Python Backend Engineer | Internal Tools & Automation | System Architecture**
+**Python Backend Engineer** | Internal Tools & Automation | System Architecture
 
-Based in Kenya. Specializing in high-performance backends using Django and desktop automation with PyQt6. I build systems that bridge the gap between complex data models and user-friendly interfaces.
-
----
-
-## Technical Expertise
-
-### Languages & Frameworks
-
-| Skill | Category |
-|-------|----------|
-| Python | Primary Language |
-| Django | Backend Framework |
-| Flask | Lightweight Backend |
-| Lua | Scripting & Automation |
-| C | Systems Programming |
-| React | Frontend Framework |
-| PyQt6 | Desktop Application Framework |
-| Tailwind CSS | Styling Framework |
-| Bootstrap | UI Framework |
-
-### Infrastructure & Tools
-
-| Skill | Category |
-|-------|----------|
-| PostgreSQL | Primary Database |
-| SQLite | Lightweight Database |
-| Docker | Containerization |
-| Git | Version Control |
-| Linux | Operating System |
-| Bash | Shell Scripting |
-| VSCode | Editor |
-| Neovim | Editor |
+*Building scalable backends and automation systems from Kenya. High-performance Django, desktop apps with PyQt6, and systems that actually work.*
 
 ---
 
-## Core Capabilities
+## Skills & Tools
+
+### Backend & Systems
+
+[![Backend Stack](https://skillicons.dev/icons?i=python,django,flask,postgres,sqlite,linux,bash,docker,git)](https://skillicons.dev)
+
+| Skill | Focus |
+|-------|-------|
+| Python | Primary language for backend & automation |
+| Django | RESTful APIs & web services |
+| Flask | Lightweight, quick prototypes |
+| Lua | Scripting & system automation |
+| C | Systems-level programming |
+| PostgreSQL | Production-grade databases |
+| SQLite | Embedded & offline-first apps |
+| Docker | Containerization & deployment |
+| Linux | Primary development environment |
+| Bash | Shell scripting & automation |
+| Git | Version control |
+
+### Frontend & Desktop
+
+[![Frontend Stack](https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite,qt,vscode,neovim)](https://skillicons.dev)
+
+| Skill | Focus |
+|-------|-------|
+| PyQt6 | Cross-platform desktop applications |
+| React | Dynamic web interfaces |
+| Tailwind CSS | Modern, utility-first styling |
+| Bootstrap | Responsive design |
+| Vite | Fast frontend tooling |
+| VSCode | Primary editor |
+| Neovim | Terminal-based development |
+
+---
+
+## What I Build
 
 **Backend Architecture**
-Designing RESTful APIs with Django REST Framework and optimizing query performance in PostgreSQL. Building scalable systems that handle high-throughput requests with clean, maintainable code.
+RESTful APIs with Django REST Framework. Query optimization in PostgreSQL. High-throughput systems that scale. Clean code that doesn't break at 2 AM.
 
 **Desktop Engineering**
-Building cross-platform desktop applications with PyQt6 for offline-first environments. Creating responsive user interfaces that seamlessly integrate with Python backends.
+Cross-platform applications with PyQt6. Offline-first environments. When the web isn't enough, I build native experiences that work everywhere.
 
-**Frontend Integration**
-Implementing dynamic interfaces with React and Tailwind CSS to consume Python backends. Bridging the gap between complex backend systems and intuitive user experiences.
+**Automation & Tooling**
+Internal tools that save time. Bash scripts that actually work. Lua for quick wins. Building the glue that holds systems together.
 
-**Machine Learning Integration**
-Integrating Scikit-learn models into production web services for real-time skill matching and intelligent decision-making systems.
-
----
-
-## Professional Achievements
-
-- **ALX Pro-dev Backend Engineering** — Certified Backend Engineer
-- **Power Learn Project (PLP)** — Completed intensive Software Engineering program
-- **AI-Powered Skill Matcher** — Developed platform leveraging Scikit-learn for intelligent user-role matching
-- **Job Board API** — Built fully responsive, RESTful service handling high-throughput requests
+**ML Integration**
+Scikit-learn models in production. Real-time skill matching systems. ML that doesn't need a PhD to deploy.
 
 ---
 
-## Get In Touch
+## Shipped
 
-- **LinkedIn:** [Prevyne Okech](https://www.linkedin.com/in/prevyne-okech/)
-- **Twitter/X:** [@prevyne_dev](https://twitter.com/prevyne_dev/)
+- **AI-Powered Skill Matcher** — Intelligent user-role matching platform using Scikit-learn
+- **Job Board API** — High-throughput REST API handling production traffic
+- **Internal Automation Tools** — Desktop & backend systems for streamlined workflows
+
+---
+
+## Certifications
+
+- ALX Pro-dev Backend Engineering
+- Power Learn Project (PLP) — Software Engineering
+
+---
+
+## Let's Connect
+
+**LinkedIn** → [Prevyne Okech](https://www.linkedin.com/in/prevyne-okech/)
+**Twitter/X** → [@prevyne_dev](https://twitter.com/prevyne_dev/)
+
+*Available for backend engineering, system design, and automation projects. Always interested in indie projects and technical challenges.*
