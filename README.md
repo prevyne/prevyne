@@ -1,37 +1,68 @@
-# Hi, I'm Prevyne Okech.
+# Prevyne Okech
 
 **Python Backend Engineer | Internal Tools & Automation | System Architecture**
 
 Based in Kenya. Specializing in high-performance backends using Django and desktop automation with PyQt6. I build systems that bridge the gap between complex data models and user-friendly interfaces.
 
-## Tech Stack & Arsenal
+---
 
-**Backend Frameworks & Tools**
-[![My Skills](https://skillicons.dev/icons?i=python,django,flask,postgres,.,sqlite,linux,bash,docker,git)](https://skillicons.dev)
+## Technical Expertise
 
-**Frontend Frameworks & IDEs**
-[![My Tools](https://skillicons.dev/icons?i=qt,react,tailwind,bootstrap,vite,.,vscode,neovim)](https://skillicons.dev)
+### Languages & Frameworks
+
+| Skill | Category |
+|-------|----------|
+| Python | Primary Language |
+| Django | Backend Framework |
+| Flask | Lightweight Backend |
+| Lua | Scripting & Automation |
+| C | Systems Programming |
+| React | Frontend Framework |
+| PyQt6 | Desktop Application Framework |
+| Tailwind CSS | Styling Framework |
+| Bootstrap | UI Framework |
+
+### Infrastructure & Tools
+
+| Skill | Category |
+|-------|----------|
+| PostgreSQL | Primary Database |
+| SQLite | Lightweight Database |
+| Docker | Containerization |
+| Git | Version Control |
+| Linux | Operating System |
+| Bash | Shell Scripting |
+| VSCode | Editor |
+| Neovim | Editor |
 
 ---
 
-## Engineering Focus
+## Core Capabilities
 
-I am currently focused on building scalable internal tools and optimizing backend performance.
+**Backend Architecture**
+Designing RESTful APIs with Django REST Framework and optimizing query performance in PostgreSQL. Building scalable systems that handle high-throughput requests with clean, maintainable code.
 
-- **Backend Architecture:** designing RESTful APIs with **Django REST Framework** and optimizing query performance in **PostgreSQL**.
-- **Desktop Engineering:** Building cross-platform desktop applications with **PyQt6** for offline-first environments.
-- **Frontend Integration:** Implementing dynamic interfaces with **React** and **Tailwind CSS** to consume Python backends.
-- **Machine Learning:** integrating **Scikit-learn** models into production web services for real-time skill matching.
+**Desktop Engineering**
+Building cross-platform desktop applications with PyQt6 for offline-first environments. Creating responsive user interfaces that seamlessly integrate with Python backends.
 
-## Proven Milestones
+**Frontend Integration**
+Implementing dynamic interfaces with React and Tailwind CSS to consume Python backends. Bridging the gap between complex backend systems and intuitive user experiences.
 
-- **ALX Pro-dev Backend Engineering:** Certified Backend Engineer.
-- **Power Learn Project (PLP):** Completed intensive Software Engineering cycle.
-- **Shipped Projects:**
-    - **AI-Powered Skill Matcher:** A platform leveraging Scikit-learn for intelligent user-role matching.
-    - **Job Board API:** A fully responsive, RESTful service handling high-throughput requests.
+**Machine Learning Integration**
+Integrating Scikit-learn models into production web services for real-time skill matching and intelligent decision-making systems.
 
-## Connect
+---
+
+## Professional Achievements
+
+- **ALX Pro-dev Backend Engineering** — Certified Backend Engineer
+- **Power Learn Project (PLP)** — Completed intensive Software Engineering program
+- **AI-Powered Skill Matcher** — Developed platform leveraging Scikit-learn for intelligent user-role matching
+- **Job Board API** — Built fully responsive, RESTful service handling high-throughput requests
+
+---
+
+## Get In Touch
 
 - **LinkedIn:** [Prevyne Okech](https://www.linkedin.com/in/prevyne-okech/)
 - **Twitter/X:** [@prevyne_dev](https://twitter.com/prevyne_dev/)
