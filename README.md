@@ -1,73 +1,73 @@
 # prevyne
 
-[![Backend Engineer](https://img.shields.io/badge/Python%20Backend%20Engineer-0EA5E9?style=for-the-badge&logoColor=black&color=0EA5E9)](https://github.com/prevynerevamp) [![Automation](https://img.shields.io/badge/Internal%20Tools%20%26%20Automation-06B6D4?style=for-the-badge&logoColor=black&color=06B6D4)](https://github.com/prevynerevamp) [![Architecture](https://img.shields.io/badge/System%20Architecture-10B981?style=for-the-badge&logoColor=black&color=10B981)](https://github.com/prevynerevamp)
+[![Python Backend Engineer](https://img.shields.io/badge/Python%20Backend%20Engineer-0EA5E9?style=for-the-badge&logoColor=black&color=0EA5E9)](https://github.com/prevynerevamp) [![Internal Tools & Automation](https://img.shields.io/badge/Internal%20Tools%20%26%20Automation-06B6D4?style=for-the-badge&logoColor=black&color=06B6D4)](https://github.com/prevynerevamp) [![System Architecture](https://img.shields.io/badge/System%20Architecture-10B981?style=for-the-badge&logoColor=black&color=10B981)](https://github.com/prevynerevamp)
 
-*Building scalable backends and automation systems from Kenya. High-performance Django, desktop apps with PyQt6, and systems that actually work.*
+Based in Kenya. Specialized in designing high-performance backend systems using Django and developing cross-platform desktop applications with PyQt6. Experienced in bridging complex data models with scalable, user-centric solutions.
 
 ---
 
-## [![Skills](https://img.shields.io/badge/Skills%20%26%20Tools-06B6D4?style=flat-square&logoColor=black&color=06B6D4)](https://github.com/prevynerevamp)
+## [![Technical Skills](https://img.shields.io/badge/Technical%20Skills-06B6D4?style=flat-square&logoColor=black&color=06B6D4)](https://github.com/prevynerevamp)
 
-### [![Backend & Systems](https://img.shields.io/badge/Backend%20%26%20Systems-0EA5E9?style=flat&logoColor=black&color=0EA5E9)](https://github.com/prevynerevamp)
+### [![Backend & Infrastructure](https://img.shields.io/badge/Backend%20%26%20Infrastructure-0EA5E9?style=flat&logoColor=black&color=0EA5E9)](https://github.com/prevynerevamp)
 
-| Skill | Icon | Focus |
+| Technology | Icon | Application |
 |-------|:----:|-------|
-| **Python** | ![Python](https://skillicons.dev/icons?i=python) | Primary language for backend & automation |
-| **Django** | ![Django](https://skillicons.dev/icons?i=django) | RESTful APIs & web services |
-| **Flask** | ![Flask](https://skillicons.dev/icons?i=flask) | Lightweight, quick prototypes |
-| **Lua** | ![Lua](https://skillicons.dev/icons?i=lua) | Scripting & system automation |
-| **C** | ![C](https://skillicons.dev/icons?i=c) | Systems-level programming |
-| **PostgreSQL** | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | Production-grade databases |
-| **SQLite** | ![SQLite](https://skillicons.dev/icons?i=sqlite) | Embedded & offline-first apps |
-| **Docker** | ![Docker](https://skillicons.dev/icons?i=docker) | Containerization & deployment |
-| **Linux** | ![Linux](https://skillicons.dev/icons?i=linux) | Primary development environment |
-| **Bash** | ![Bash](https://skillicons.dev/icons?i=bash) | Shell scripting & automation |
-| **Git** | ![Git](https://skillicons.dev/icons?i=git) | Version control |
+| **Python** | ![Python](https://skillicons.dev/icons?i=python) | Primary backend language & automation scripting |
+| **Django** | ![Django](https://skillicons.dev/icons?i=django) | RESTful API development & web services |
+| **Flask** | ![Flask](https://skillicons.dev/icons?i=flask) | Lightweight microservices & rapid prototyping |
+| **Lua** | ![Lua](https://skillicons.dev/icons?i=lua) | System scripting & automation frameworks |
+| **C** | ![C](https://skillicons.dev/icons?i=c) | Systems programming & performance-critical modules |
+| **PostgreSQL** | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | Production database management & optimization |
+| **SQLite** | ![SQLite](https://skillicons.dev/icons?i=sqlite) | Embedded databases & offline-first applications |
+| **Docker** | ![Docker](https://skillicons.dev/icons?i=docker) | Containerization & deployment orchestration |
+| **Linux** | ![Linux](https://skillicons.dev/icons?i=linux) | Server environments & system administration |
+| **Bash** | ![Bash](https://skillicons.dev/icons?i=bash) | Shell scripting & infrastructure automation |
+| **Git** | ![Git](https://skillicons.dev/icons?i=git) | Version control & collaborative development |
 
-### [![Frontend & Desktop](https://img.shields.io/badge/Frontend%20%26%20Desktop-EC4899?style=flat&logoColor=black&color=EC4899)](https://github.com/prevynerevamp)
+### [![Frontend & Desktop Development](https://img.shields.io/badge/Frontend%20%26%20Desktop-EC4899?style=flat&logoColor=black&color=EC4899)](https://github.com/prevynerevamp)
 
-| Skill | Icon | Focus |
+| Technology | Icon | Application |
 |-------|:----:|-------|
-| **PyQt6** | ![Qt](https://skillicons.dev/icons?i=qt) | Cross-platform desktop applications |
-| **React** | ![React](https://skillicons.dev/icons?i=react) | Dynamic web interfaces |
-| **Tailwind CSS** | ![Tailwind](https://skillicons.dev/icons?i=tailwind) | Modern, utility-first styling |
-| **Bootstrap** | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) | Responsive design |
-| **Vite** | ![Vite](https://skillicons.dev/icons?i=vite) | Fast frontend tooling |
-| **VSCode** | ![VSCode](https://skillicons.dev/icons?i=vscode) | Primary editor |
-| **Neovim** | ![Neovim](https://skillicons.dev/icons?i=neovim) | Terminal-based development |
+| **PyQt6** | ![Qt](https://skillicons.dev/icons?i=qt) | Cross-platform desktop applications & GUI frameworks |
+| **React** | ![React](https://skillicons.dev/icons?i=react) | Dynamic web interfaces & component-based development |
+| **Tailwind CSS** | ![Tailwind](https://skillicons.dev/icons?i=tailwind) | Utility-first CSS & responsive design systems |
+| **Bootstrap** | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) | Responsive layouts & frontend components |
+| **Vite** | ![Vite](https://skillicons.dev/icons?i=vite) | Next-generation frontend tooling & optimization |
+| **VSCode** | ![VSCode](https://skillicons.dev/icons?i=vscode) | Primary development environment |
+| **Neovim** | ![Neovim](https://skillicons.dev/icons?i=neovim) | Terminal-based code editing & development |
 
 ---
 
-## [![What I Build](https://img.shields.io/badge/What%20I%20Build-10B981?style=flat-square&logoColor=black&color=10B981)](https://github.com/prevynerevamp)
+## [![Core Competencies](https://img.shields.io/badge/Core%20Competencies-10B981?style=flat-square&logoColor=black&color=10B981)](https://github.com/prevynerevamp)
 
-**[![Backend Architecture](https://img.shields.io/badge/Backend%20Architecture-0EA5E9?style=flat&logoColor=black&color=0EA5E9)]()** RESTful APIs with Django REST Framework. Query optimization in PostgreSQL. High-throughput systems that scale. Clean code that doesn't break at 2 AM.
+**[![Backend Architecture](https://img.shields.io/badge/Backend%20Architecture-0EA5E9?style=flat&logoColor=black&color=0EA5E9)]()** Design and implementation of scalable RESTful APIs using Django REST Framework. Database query optimization and performance tuning in PostgreSQL. High-throughput system design with emphasis on reliability and maintainability.
 
-**[![Desktop Engineering](https://img.shields.io/badge/Desktop%20Engineering-EC4899?style=flat&logoColor=black&color=EC4899)]()** Cross-platform applications with PyQt6. Offline-first environments. When the web isn't enough, I build native experiences that work everywhere.
+**[![Desktop Application Development](https://img.shields.io/badge/Desktop%20Application%20Development-EC4899?style=flat&logoColor=black&color=EC4899)]()** Cross-platform desktop application development using PyQt6. Building offline-first environments for seamless user experiences. Native application design and deployment strategies.
 
-**[![Automation & Tooling](https://img.shields.io/badge/Automation%20%26%20Tooling-06B6D4?style=flat&logoColor=black&color=06B6D4)]()** Internal tools that save time. Bash scripts that actually work. Lua for quick wins. Building the glue that holds systems together.
+**[![Systems Integration & Automation](https://img.shields.io/badge/Systems%20Integration%20%26%20Automation-06B6D4?style=flat&logoColor=black&color=06B6D4)]()** Internal tools development for enterprise workflow optimization. Infrastructure automation using Bash and Lua scripting. System integration across multiple technology stacks.
 
-**[![ML Integration](https://img.shields.io/badge/ML%20Integration-8B5CF6?style=flat&logoColor=black&color=8B5CF6)]()** Scikit-learn models in production. Real-time skill matching systems. ML that doesn't need a PhD to deploy.
-
----
-
-## [![Shipped Projects](https://img.shields.io/badge/Shipped%20Projects-F59E0B?style=flat-square&logoColor=black&color=F59E0B)](https://github.com/prevynerevamp)
-
-**[![AI-Powered Skill Matcher](https://img.shields.io/badge/AI--Powered%20Skill%20Matcher-10B981?style=flat&logoColor=black&color=10B981)]()** — Intelligent user-role matching platform using Scikit-learn
-
-**[![Job Board API](https://img.shields.io/badge/Job%20Board%20API-10B981?style=flat&logoColor=black&color=10B981)]()** — High-throughput REST API handling production traffic
-
-**[![Internal Automation Tools](https://img.shields.io/badge/Internal%20Automation%20Tools-10B981?style=flat&logoColor=black&color=10B981)]()** — Desktop & backend systems for streamlined workflows
+**[![Machine Learning Deployment](https://img.shields.io/badge/Machine%20Learning%20Deployment-8B5CF6?style=flat&logoColor=black&color=8B5CF6)]()** Integration of Scikit-learn models into production web services. Real-time prediction systems and data-driven decision-making platforms. Model optimization and scalability.
 
 ---
 
-## [![Certifications](https://img.shields.io/badge/Certifications-F59E0B?style=flat-square&logoColor=black&color=F59E0B)](https://github.com/prevynerevamp)
+## [![Professional Experience](https://img.shields.io/badge/Professional%20Experience-F59E0B?style=flat-square&logoColor=black&color=F59E0B)](https://github.com/prevynerevamp)
 
-[![ALX Pro-dev](https://img.shields.io/badge/ALX%20Pro--dev%20Backend%20Engineering-F59E0B?style=flat&logoColor=black&color=F59E0B)]() [![PLP](https://img.shields.io/badge/Power%20Learn%20Project%20(PLP)-F59E0B?style=flat&logoColor=black&color=F59E0B)]()
+**[![AI-Powered Skill Matching Platform](https://img.shields.io/badge/AI--Powered%20Skill%20Matching%20Platform-10B981?style=flat&logoColor=black&color=10B981)]()** — Developed intelligent user-role matching system leveraging Scikit-learn algorithms for enterprise talent management
+
+**[![High-Performance Job Board API](https://img.shields.io/badge/High--Performance%20Job%20Board%20API-10B981?style=flat&logoColor=black&color=10B981)]()** — Architected and deployed fully responsive RESTful API handling high-throughput requests with optimized database queries
+
+**[![Enterprise Automation Tools](https://img.shields.io/badge/Enterprise%20Automation%20Tools-10B981?style=flat&logoColor=black&color=10B981)]()** — Designed and implemented desktop and backend automation systems for streamlined enterprise workflows
 
 ---
 
-## [![Let's Connect](https://img.shields.io/badge/Let's%20Connect-06B6D4?style=flat-square&logoColor=black&color=06B6D4)](https://github.com/prevynerevamp)
+## [![Credentials](https://img.shields.io/badge/Credentials-F59E0B?style=flat-square&logoColor=black&color=F59E0B)](https://github.com/prevynerevamp)
+
+[![ALX Pro-dev Backend Engineering](https://img.shields.io/badge/ALX%20Pro--dev%20Backend%20Engineering%20Certification-F59E0B?style=flat&logoColor=black&color=F59E0B)]() [![Power Learn Project (PLP)](https://img.shields.io/badge/Power%20Learn%20Project%20(PLP)%20Software%20Engineering-F59E0B?style=flat&logoColor=black&color=F59E0B)]()
+
+---
+
+## [![Professional Networks](https://img.shields.io/badge/Professional%20Networks-06B6D4?style=flat-square&logoColor=black&color=06B6D4)](https://github.com/prevynerevamp)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/prevyne-okech/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/prevyne_dev/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=black)](https://github.com/prevynerevamp)
 
-*Available for backend engineering, system design, and automation projects. Always interested in indie projects and technical challenges.*
+Open to opportunities in backend engineering, system architecture, and enterprise automation. Committed to delivering robust, scalable solutions that drive technical excellence.
