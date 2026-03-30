@@ -52,11 +52,11 @@ Based in Kenya. Specialized in designing high-performance backend systems using 
 
 ## [![Professional Experience](https://img.shields.io/badge/Professional%20Experience-F59E0B?style=flat-square&logoColor=black&color=F59E0B)](https://github.com/prevynerevamp)
 
-**[![AI-Powered Skill Matching Platform](https://img.shields.io/badge/AI--Powered%20Skill%20Matching%20Platform-10B981?style=flat&logoColor=black&color=10B981)]()** — Developed intelligent user-role matching system leveraging Scikit-learn algorithms for enterprise talent management
+**[![AI-Powered Skill Matching Platform](https://img.shields.io/badge/AI--Powered%20Skill%20Matching%20Platform-10B981?style=flat&logoColor=black&color=10B981)]()** - Developed intelligent user-role matching system leveraging Scikit-learn algorithms for enterprise talent management
 
-**[![High-Performance Job Board API](https://img.shields.io/badge/High--Performance%20Job%20Board%20API-10B981?style=flat&logoColor=black&color=10B981)]()** — Architected and deployed fully responsive RESTful API handling high-throughput requests with optimized database queries
+**[![High-Performance Job Board API](https://img.shields.io/badge/High--Performance%20Job%20Board%20API-10B981?style=flat&logoColor=black&color=10B981)]()** - Architected and deployed fully responsive RESTful API handling high-throughput requests with optimized database queries
 
-**[![Enterprise Automation Tools](https://img.shields.io/badge/Enterprise%20Automation%20Tools-10B981?style=flat&logoColor=black&color=10B981)]()** — Designed and implemented desktop and backend automation systems for streamlined enterprise workflows
+**[![Enterprise Automation Tools](https://img.shields.io/badge/Enterprise%20Automation%20Tools-10B981?style=flat&logoColor=black&color=10B981)]()** - Designed and implemented desktop and backend automation systems for streamlined enterprise workflows
 
 ---
 
