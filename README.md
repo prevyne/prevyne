@@ -8,7 +8,7 @@ Software engineer specialized in designing high-performance backend systems usin
 
 ## [![Technical Skills](https://img.shields.io/badge/Technical%20Skills-06B6D4?style=flat-square&logoColor=black&color=bd630a)](https://github.com/prevyne)
 
-### [![Backend & Infrastructure](https://img.shields.io/badge/Backend%20%26%20Infrastructure-0EA5E9?style=flat&logoColor=black&color=258f07)](https://github.com/prevynerevamp)
+### [![Backend & Infrastructure](https://img.shields.io/badge/Backend%20%26%20Infrastructure-0EA5E9?style=flat&logoColor=black&color=258f07)](https://github.com/prevyne)
 
 | Technology | Icon | Application |
 |-------|:----:|-------|
@@ -24,7 +24,7 @@ Software engineer specialized in designing high-performance backend systems usin
 | **Bash** | ![Bash](https://skillicons.dev/icons?i=bash) | Shell scripting & infrastructure automation |
 | **Git** | ![Git](https://skillicons.dev/icons?i=git) | Version control & collaborative development |
 
-### [![Frontend & Desktop Development](https://img.shields.io/badge/Frontend%20%26%20Desktop-EC4899?style=flat&logoColor=black&color=79053e)](https://github.com/prevynerevamp)
+### [![Frontend & Desktop Development](https://img.shields.io/badge/Frontend%20%26%20Desktop-EC4899?style=flat&logoColor=black&color=79053e)](https://github.com/prevyne)
 
 | Technology | Icon | Application |
 |-------|:----:|-------|
@@ -38,7 +38,7 @@ Software engineer specialized in designing high-performance backend systems usin
 
 ---
 
-## [![Core Competencies](https://img.shields.io/badge/Core%20Competencies-10B981?style=flat-square&logoColor=black&color=055c3f)](https://github.com/prevynerevamp)
+## [![Core Competencies](https://img.shields.io/badge/Core%20Competencies-10B981?style=flat-square&logoColor=black&color=055c3f)](https://github.com/prevyne)
 
 **[![Backend Architecture](https://img.shields.io/badge/Backend%20Architecture-0EA5E9?style=flat&logoColor=black&color=0EA5E9)]()** - Design and implementation of scalable RESTful APIs using Django REST Framework. Database query optimization and performance tuning in PostgreSQL. High-throughput system design with emphasis on reliability and maintainability.
 
@@ -50,7 +50,7 @@ Software engineer specialized in designing high-performance backend systems usin
 
 ---
 
-## [![Professional Experience](https://img.shields.io/badge/Professional%20Experience-F59E0B?style=flat-square&logoColor=black&color=a58e04)](https://github.com/prevynerevamp)
+## [![Professional Experience](https://img.shields.io/badge/Professional%20Experience-F59E0B?style=flat-square&logoColor=black&color=a58e04)](https://github.com/prevyne)
 
 **[![AI-Powered Skill Matching Platform](https://img.shields.io/badge/AI--Powered%20Skill%20Matching%20Platform-10B981?style=flat&logoColor=black&color=10B981)]()** - Developed intelligent user-role matching system leveraging Scikit-learn algorithms for enterprise talent management
 
@@ -60,7 +60,7 @@ Software engineer specialized in designing high-performance backend systems usin
 
 ---
 
-## [![Credentials](https://img.shields.io/badge/Credentials-F59E0B?style=flat-square&logoColor=black&color=9a6306)](https://github.com/prevynerevamp)
+## [![Credentials](https://img.shields.io/badge/Credentials-F59E0B?style=flat-square&logoColor=black&color=9a6306)](https://github.com/prevyne)
 
 [![ALX Pro-dev Backend Engineering](https://img.shields.io/badge/ALX%20Pro--dev%20Backend%20Engineering%20Certification-F59E0B?style=flat&logoColor=black&color=F59E0B)]() [![Power Learn Project (PLP)](https://img.shields.io/badge/Power%20Learn%20Project%20(PLP)%20Software%20Engineering-F59E0B?style=flat&logoColor=black&color=F59E0B)]()
 
@@ -68,6 +68,6 @@ Software engineer specialized in designing high-performance backend systems usin
 
 ## [![Professional Networks](https://img.shields.io/badge/Professional%20Networks-06B6D4?style=flat-square&logoColor=black&color=04697a)](https://github.com/prevynerevamp)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/prevyne-okech/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/prevyne_dev/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=black)](https://github.com/prevynerevamp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/prevyne-okech/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/prevyne_dev/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=black)](https://github.com/prevyne)
 
 Open to opportunities in backend engineering, system architecture, and enterprise automation. Committed to delivering robust, scalable solutions that drive technical excellence.
