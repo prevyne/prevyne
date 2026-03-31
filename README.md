@@ -7,7 +7,6 @@ Based in Kenya. Specialized in designing high-performance backend systems using 
 ---
 
 ## SKILLS 
-###
 [![Technical Skills](https://img.shields.io/badge/Technical%20Skills-06B6D4?style=flat-square&logoColor=black&color=bd630a)](https://github.com/prevyne)
 
 ### 
