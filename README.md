@@ -40,13 +40,13 @@ Based in Kenya. Specialized in designing high-performance backend systems using 
 
 ## [![Core Competencies](https://img.shields.io/badge/Core%20Competencies-10B981?style=flat-square&logoColor=black&color=055c3f)](https://github.com/prevynerevamp)
 
-**[![Backend Architecture](https://img.shields.io/badge/Backend%20Architecture-0EA5E9?style=flat&logoColor=black&color=0EA5E9)]()** Design and implementation of scalable RESTful APIs using Django REST Framework. Database query optimization and performance tuning in PostgreSQL. High-throughput system design with emphasis on reliability and maintainability.
+**[![Backend Architecture](https://img.shields.io/badge/Backend%20Architecture-0EA5E9?style=flat&logoColor=black&color=0EA5E9)]()** - Design and implementation of scalable RESTful APIs using Django REST Framework. Database query optimization and performance tuning in PostgreSQL. High-throughput system design with emphasis on reliability and maintainability.
 
-**[![Desktop Application Development](https://img.shields.io/badge/Desktop%20Application%20Development-EC4899?style=flat&logoColor=black&color=EC4899)]()** Cross-platform desktop application development using PyQt6. Building offline-first environments for seamless user experiences. Native application design and deployment strategies.
+**[![Desktop Application Development](https://img.shields.io/badge/Desktop%20Application%20Development-EC4899?style=flat&logoColor=black&color=EC4899)]()** - Cross-platform desktop application development using PyQt6. Building offline-first environments for seamless user experiences. Native application design and deployment strategies.
 
-**[![Systems Integration & Automation](https://img.shields.io/badge/Systems%20Integration%20%26%20Automation-06B6D4?style=flat&logoColor=black&color=06B6D4)]()** Internal tools development for enterprise workflow optimization. Infrastructure automation using Bash and Lua scripting. System integration across multiple technology stacks.
+**[![Systems Integration & Automation](https://img.shields.io/badge/Systems%20Integration%20%26%20Automation-06B6D4?style=flat&logoColor=black&color=06B6D4)]()** - Internal tools development for enterprise workflow optimization. Infrastructure automation using Bash and Lua scripting. System integration across multiple technology stacks.
 
-**[![Machine Learning Deployment](https://img.shields.io/badge/Machine%20Learning%20Deployment-8B5CF6?style=flat&logoColor=black&color=8B5CF6)]()** Integration of Scikit-learn models into production web services. Real-time prediction systems and data-driven decision-making platforms. Model optimization and scalability.
+**[![Machine Learning Deployment](https://img.shields.io/badge/Machine%20Learning%20Deployment-8B5CF6?style=flat&logoColor=black&color=8B5CF6)]()** - Integration of Scikit-learn models into production web services. Real-time prediction systems and data-driven decision-making platforms. Model optimization and scalability.
 
 ---
 
