@@ -6,9 +6,9 @@ Based in Kenya. Specialized in designing high-performance backend systems using 
 
 ---
 
-## [![Technical Skills](https://img.shields.io/badge/Technical%20Skills-06B6D4?style=flat-square&logoColor=black&color=06B6D4)](https://github.com/prevynerevamp)
+## [![Technical Skills](https://img.shields.io/badge/Technical%20Skills-06B6D4?style=flat-square&logoColor=black&color=bd630a)](https://github.com/prevynerevamp)
 
-### [![Backend & Infrastructure](https://img.shields.io/badge/Backend%20%26%20Infrastructure-0EA5E9?style=flat&logoColor=black&color=0EA5E9)](https://github.com/prevynerevamp)
+### [![Backend & Infrastructure](https://img.shields.io/badge/Backend%20%26%20Infrastructure-0EA5E9?style=flat&logoColor=black&color=4bad0a)](https://github.com/prevynerevamp)
 
 | Technology | Icon | Application |
 |-------|:----:|-------|
@@ -24,7 +24,7 @@ Based in Kenya. Specialized in designing high-performance backend systems using 
 | **Bash** | ![Bash](https://skillicons.dev/icons?i=bash) | Shell scripting & infrastructure automation |
 | **Git** | ![Git](https://skillicons.dev/icons?i=git) | Version control & collaborative development |
 
-### [![Frontend & Desktop Development](https://img.shields.io/badge/Frontend%20%26%20Desktop-EC4899?style=flat&logoColor=black&color=EC4899)](https://github.com/prevynerevamp)
+### [![Frontend & Desktop Development](https://img.shields.io/badge/Frontend%20%26%20Desktop-EC4899?style=flat&logoColor=black&color=#741b47)](https://github.com/prevynerevamp)
 
 | Technology | Icon | Application |
 |-------|:----:|-------|
@@ -50,7 +50,7 @@ Based in Kenya. Specialized in designing high-performance backend systems using 
 
 ---
 
-## [![Professional Experience](https://img.shields.io/badge/Professional%20Experience-F59E0B?style=flat-square&logoColor=black&color=F59E0B)](https://github.com/prevynerevamp)
+## [![Professional Experience](https://img.shields.io/badge/Professional%20Experience-F59E0B?style=flat-square&logoColor=black&color=#f5d51b)](https://github.com/prevynerevamp)
 
 **[![AI-Powered Skill Matching Platform](https://img.shields.io/badge/AI--Powered%20Skill%20Matching%20Platform-10B981?style=flat&logoColor=black&color=10B981)]()** - Developed intelligent user-role matching system leveraging Scikit-learn algorithms for enterprise talent management
 
@@ -60,13 +60,13 @@ Based in Kenya. Specialized in designing high-performance backend systems using 
 
 ---
 
-## [![Credentials](https://img.shields.io/badge/Credentials-F59E0B?style=flat-square&logoColor=black&color=F59E0B)](https://github.com/prevynerevamp)
+## [![Credentials](https://img.shields.io/badge/Credentials-F59E0B?style=flat-square&logoColor=black&color=d08506)](https://github.com/prevynerevamp)
 
 [![ALX Pro-dev Backend Engineering](https://img.shields.io/badge/ALX%20Pro--dev%20Backend%20Engineering%20Certification-F59E0B?style=flat&logoColor=black&color=F59E0B)]() [![Power Learn Project (PLP)](https://img.shields.io/badge/Power%20Learn%20Project%20(PLP)%20Software%20Engineering-F59E0B?style=flat&logoColor=black&color=F59E0B)]()
 
 ---
 
-## [![Professional Networks](https://img.shields.io/badge/Professional%20Networks-06B6D4?style=flat-square&logoColor=black&color=06B6D4)](https://github.com/prevynerevamp)
+## [![Professional Networks](https://img.shields.io/badge/Professional%20Networks-06B6D4?style=flat-square&logoColor=black&color=0c96ad)](https://github.com/prevynerevamp)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/prevyne-okech/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/prevyne_dev/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=black)](https://github.com/prevynerevamp)
 
