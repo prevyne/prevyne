@@ -1,6 +1,6 @@
 # prevyne
 
-[![Python Backend Engineer](https://img.shields.io/badge/Python%20Backend%20Engineer-0EA5E9?style=for-the-badge&logoColor=black&color=f5d51b)](https://github.com/prevyne) [![Internal Tools & Automation](https://img.shields.io/badge/Internal%20Tools%20%26%20Automation-06B6D4?style=for-the-badge&logoColor=black&color=2986cc)](https://github.com/prevynerevamp) [![System Architecture](https://img.shields.io/badge/System%20Architecture-10B981?style=for-the-badge&logoColor=black&color=064e19)](https://github.com/prevynerevamp)
+[![Python Backend Engineer](https://img.shields.io/badge/Python%20Backend%20Engineer-0EA5E9?style=for-the-badge&logoColor=black&color=f5d51b)](https://github.com/prevyne)[![React Frontend Developer](https://img.shields.io/badge/React%Frontend%20Developer-f8d50a?style=for-the-badge&logoColor=black&color=f5d51b)](https://github.com/prevyne) [![Internal Tools & Automation](https://img.shields.io/badge/Internal%20Tools%20%26%20Automation-06B6D4?style=for-the-badge&logoColor=black&color=2986cc)](https://github.com/prevynerevamp) [![System Architecture](https://img.shields.io/badge/System%20Architecture-10B981?style=for-the-badge&logoColor=black&color=064e19)](https://github.com/prevynerevamp)
 
 Software engineer specialized in designing high-performance backend systems using Django and developing cross-platform desktop applications with PyQt6. Experienced in bridging complex data models with scalable, user-centric solutions.
 
