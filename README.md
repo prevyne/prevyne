@@ -1,12 +1,12 @@
 # prevyne
 
-[![Python Backend Engineer](https://img.shields.io/badge/Python%20Backend%20Engineer-0EA5E9?style=for-the-badge&logoColor=black&color=f5d51b)](https://github.com/prevynerevamp) [![Internal Tools & Automation](https://img.shields.io/badge/Internal%20Tools%20%26%20Automation-06B6D4?style=for-the-badge&logoColor=black&color=2986cc)](https://github.com/prevynerevamp) [![System Architecture](https://img.shields.io/badge/System%20Architecture-10B981?style=for-the-badge&logoColor=black&color=064e19)](https://github.com/prevynerevamp)
+[![Python Backend Engineer](https://img.shields.io/badge/Python%20Backend%20Engineer-0EA5E9?style=for-the-badge&logoColor=black&color=f5d51b)](https://github.com/prevyne) [![Internal Tools & Automation](https://img.shields.io/badge/Internal%20Tools%20%26%20Automation-06B6D4?style=for-the-badge&logoColor=black&color=2986cc)](https://github.com/prevynerevamp) [![System Architecture](https://img.shields.io/badge/System%20Architecture-10B981?style=for-the-badge&logoColor=black&color=064e19)](https://github.com/prevynerevamp)
 
 Based in Kenya. Specialized in designing high-performance backend systems using Django and developing cross-platform desktop applications with PyQt6. Experienced in bridging complex data models with scalable, user-centric solutions.
 
 ---
 
-## [![Technical Skills](https://img.shields.io/badge/Technical%20Skills-06B6D4?style=flat-square&logoColor=black&color=bd630a)](https://github.com/prevynerevamp)
+## [![Technical Skills](https://img.shields.io/badge/Technical%20Skills-06B6D4?style=flat-square&logoColor=black&color=bd630a)](https://github.com/prevyne)
 
 ### [![Backend & Infrastructure](https://img.shields.io/badge/Backend%20%26%20Infrastructure-0EA5E9?style=flat&logoColor=black&color=258f07)](https://github.com/prevynerevamp)
 
